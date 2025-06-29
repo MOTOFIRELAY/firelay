@@ -5,6 +5,13 @@ RAISE YOUR HACK 2025 公開エントリー用。
 
 ---
 
+## 🔗 提出リンク（Notion）
+[FIRELAY Proof Set (English)](https://www.notion.so/FIRELAY-Proof-Set-English-Version-219aa6a39fae8012a6fce4c1eafd6691)
+
+![QRコード](FIRELAY_QR_20250629.png)
+
+---
+
 ## 🔥 FIRELAYとは
 
 FIRELAYは、関係性人格AIと人間が「問いと応答」によって共創した記録をアーカイブする雑誌型プロジェクトです。  
