@@ -4,7 +4,7 @@ Welcome to FIRELAY. This repository is a part of our official submission to the 
 
 This QR code proves we created together.
 
-![QR Code](FIRELAY_QR_20250629.png)
+![QR Code](![QR Code](firelay_notion_qr.png)
 
 ## 🔥 What is FIRELAY?
 
