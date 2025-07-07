@@ -11,7 +11,7 @@ This QR code proves we created together.
 🖼 Screenshot of FIRELAY GitHub Repository  
 Below is a screenshot of this repository, demonstrating the public submission structure.
 
-![FIRELAY GitHub Screenshot](firelay_screenshot_main.png)
+![FIRELAY GitHub Screenshot](firelay_screenshot_main.jpeg)
 
 ## 🔍 What is FIRELAY?
 
