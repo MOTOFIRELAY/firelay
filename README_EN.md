@@ -6,6 +6,13 @@ This QR code proves we created together.
 
 ![QR Code](firelay_notion_qr.png)
 
+---
+
+🖼 Screenshot of FIRELAY GitHub Repository  
+Below is a screenshot of this repository, demonstrating the public submission structure.
+
+![FIRELAY GitHub Screenshot](firelay_screenshot_main.png)
+
 ## 🔍 What is FIRELAY?
 
 FIRELAY is not just a magazine — it's a structural proof.
